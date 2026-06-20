@@ -1,0 +1,8 @@
+[
+  {"industry":"Healthcare","trend":"AI medical admin automation","growth":91,"competition":62,"market":"Clinics need appointment, billing, documentation, and follow-up automation."},
+  {"industry":"Education","trend":"AI personalized learning","growth":87,"competition":58,"market":"Institutes need lesson planning, student analytics, and course content automation."},
+  {"industry":"Finance","trend":"SME invoice intelligence","growth":84,"competition":55,"market":"Small businesses need cash-flow, invoice, and fraud-risk automation."},
+  {"industry":"Retail","trend":"Demand forecasting for online sellers","growth":82,"competition":64,"market":"E-commerce sellers need product demand, pricing, and inventory signals."},
+  {"industry":"Agriculture","trend":"AI crop advisory dashboards","growth":79,"competition":47,"market":"Farmers and agribusinesses need weather, disease, and yield insights."},
+  {"industry":"Construction","trend":"Project delay and cost risk analytics","growth":80,"competition":53,"market":"Construction managers need delay prediction and resource utilization insights."}
+]
