@@ -1,4 +1,5 @@
 # VentureIQ AI Startup Idea Generator
+[screen-capture (8).webm](https://github.com/user-attachments/assets/1792a870-5836-452d-80f5-78968f634586)
 
 A professional full-stack portfolio project that generates validated startup ideas using trend analysis, market signals, MVP readiness, and business-model scoring.
 
